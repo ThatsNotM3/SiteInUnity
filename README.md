@@ -1,5 +1,5 @@
 # :wave: Welcome!
-This is a GitHub Page of the "SiteInUnity" project. The project itself is a video series on my channel where I am trying to make a real, fully-interactable "Website", but... in Unity!
+This is a GitHub Page of the "SiteInUnity" project. The project itself is a video series on my channel where I with the help of audience are trying to make a real, fully-interactable "Website", but... in Unity!
 
 ## :briefcase: How can you contribute
 Everyone who knows Unity or C# can contribute to this project. Things you can do:
