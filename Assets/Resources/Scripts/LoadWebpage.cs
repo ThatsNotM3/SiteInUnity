@@ -18,6 +18,7 @@ public class LoadWebpage : MonoBehaviour
     }
 
     // This function loads new scene(tab)
+    // See Brackeys' video about loading screens and progress bar - https://youtu.be/YMj2qPq9CP8
     public void LoadNewPage(string page){
         AsyncOperation operation = SceneManager.LoadSceneAsync(page);
         StartCoroutine(ProgressSlider(operation));
