@@ -9,6 +9,6 @@ Everyone who knows Unity or C# can contribute to this project. Things you can do
 
 We are going to create lots of utilities and mini-games, so that the project will be bigger, funnier and enjoyable. If you have experience or ideas, you can greatly help us with that. Every author will be mentioned on his work's page (like *"Calculator Tool. Made by ThatsNotM3"*) and in my new video as well. Any contribution will be appreciated!
 ***
-❗This project is using **Unity Editor version 2021.3.2f (LTS)**
+❗This project is using **Unity Editor version 2021.3.6f (LTS)**
 ***
 ![MinimalisticTextLogo](https://user-images.githubusercontent.com/60347034/164000786-2888cb60-705e-4616-88cd-c03dd17aa0ba.png)
