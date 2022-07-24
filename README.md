@@ -11,4 +11,4 @@ We are going to create lots of utilities and mini-games, so that the project wil
 ***
 ❗This project is using **Unity Editor version 2021.3.6f (LTS)**
 ***
-![MinimalisticTextLogo](https://user-images.githubusercontent.com/60347034/164000786-2888cb60-705e-4616-88cd-c03dd17aa0ba.png)
+![ThatsNotGames](https://user-images.githubusercontent.com/60347034/180638693-edce4d12-e926-4411-976a-2c3774ac4ae8.png)
